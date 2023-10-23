@@ -31,15 +31,19 @@ By using the Skill, you consent to the collection and processing of your data as
 5. Disclaimer of Warranty
 
 The Skill is provided "as is" and "as available" without any warranties, including but not limited to the accuracy, reliability, or completeness of information provided by the Skill.
+
 6. Limitation of Liability
 
 ERD Educational Club will not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages arising out of your use of the Skill.
+
 7. Termination
 
 ERD Educational Club reserves the right to terminate or suspend access to the Skill at its sole discretion.
+
 8. Changes to Terms
 
 ERD Educational Club may update these Terms of Use at any time, and any changes will be effective upon posting the revised terms.
+
 9. Contact Information
 
 If you have questions or concerns about these Terms of Use, please contact us at mle.elsadavis@gmail.com.
