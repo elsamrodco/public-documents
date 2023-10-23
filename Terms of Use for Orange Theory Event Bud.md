@@ -40,7 +40,6 @@ ERD Educational Club reserves the right to terminate or suspend access to the Sk
 8. Changes to Terms
 
 ERD Educational Club may update these Terms of Use at any time, and any changes will be effective upon posting the revised terms.
-
 9. Contact Information
 
 If you have questions or concerns about these Terms of Use, please contact us at mle.elsadavis@gmail.com.
